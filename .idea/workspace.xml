@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9516a33-2987-43e7-be3d-ad1bc0016bee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/includes/top-header.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/top-header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seller/edit-products.php" beforeDir="false" afterPath="$PROJECT_DIR$/seller/edit-products.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seller/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/seller/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seller/insert-product.php" beforeDir="false" afterPath="$PROJECT_DIR$/seller/insert-product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seller/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/seller/login.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jTkcNHiwauKLopIGSrnraObjxY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ecommerce" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\shopping\assets" />
+      <recent name="C:\xampp\htdocs\shopping\seller" />
+      <recent name="C:\xampp\htdocs\shopping\seller\images\icons" />
+      <recent name="C:\xampp\htdocs\shopping\seller\css" />
+      <recent name="C:\xampp\htdocs\shopping\Seller\vendor" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9516a33-2987-43e7-be3d-ad1bc0016bee" name="Default Changelist" comment="" />
+      <created>1603835547579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603835547579</updated>
+      <workItem from="1603835548634" duration="10840000" />
+      <workItem from="1603984676123" duration="29440000" />
+      <workItem from="1604091538807" duration="43041000" />
+      <workItem from="1604195924499" duration="87000" />
+      <workItem from="1604196015929" duration="426000" />
+      <workItem from="1604256008108" duration="888000" />
+      <workItem from="1604330398213" duration="15250000" />
+      <workItem from="1604497749555" duration="7911000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="59" y="208" key="#SQL_Dialects" timestamp="1604039784906">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="59" y="208" key="#SQL_Dialects/0.0.1366.728@0.0.1366.728" timestamp="1604039784906" />
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604366692393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604366692393" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1604528251830">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604528251830" />
+    <state x="517" y="295" key="NewPhpFileDialog" timestamp="1604148824381">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="295" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1604148824381" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1604498622317">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604498622317" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1604359504800">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1604359504800" />
+    <state x="616" y="278" width="672" height="678" key="search.everywhere.popup" timestamp="1604498868289">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="616" y="278" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604498868289" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/seller/includes/config.php</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
